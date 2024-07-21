@@ -1,0 +1,2 @@
+# FoxRabbitCarrot
+Ecosystem simulator
